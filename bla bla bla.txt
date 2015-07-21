@@ -3,8 +3,6 @@ Hello World
 
 Hello World2 for Pippo
 
-<<<<<<< HEAD
 Alessio
-=======
+
 Pippo
->>>>>>> origin/master
